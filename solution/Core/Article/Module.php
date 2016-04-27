@@ -1,10 +1,10 @@
 <?php
-namespace ImmediateSolutions\Onion\Core\Services;
+namespace ImmediateSolutions\Onion\Core\Article;
 
 /**
  * @author Igor Vorobiov <igor.vorobioff@gmail.com>
  */
-class ArticleService
+class Module
 {
 
 }
